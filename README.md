@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on web development.
 
-- 📫 How to reach me moraldnan.siraj@gmail.com : @moraladnan2 telegram;
-https://discord.com/api/webhooks/1017675123257511966/3DQx6N9-imcKgFAHr3LzKGlm88IXlKzdA99AwRsI2yKqCfKilLAc3T4Qj_qyN6EmLMPj
+- 📫 How to reach me moraldnan.siraj@gmail.com : 
+Telegram - https://t.me/@moraladnan
+Instagram- https://instagr.am/@moral_adnan
 <!---
-moralweb/moralweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+moralweb/moral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
