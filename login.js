@@ -10,14 +10,14 @@ form.addEventListener('submit', (e) => {
     // Simulate login validation (replace with your actual logic)
     if (username === 'Video' && password === 'vdo') {
         
-        window.location.href = "https://sites.google.com/view/sadik-docs/home?authuser=0";
+        window.location.href = "https://moralweb.github.io/moralweb/secret.html";
     } 
     if (username === 'Photo' && password === 'pic') {
         
-        window.location.href ="https://drive.google.com/drive/folders/1uLPvKBihsDUuErU_b8B9GziKIy9t7Q-9?usp=drive_link";
+        window.location.href ="https://moralweb.github.io/moralweb/secret.html";
     } if (username === 'Document' && password === 'doc') {
         
-        window.location.href = "https://sites.google.com/view/sadik-docs/documents?authuser=0";
+        window.location.href = "https://moralweb.github.io/moralweb/secret.html";
     } else {
         message.textContent = 'churi korte aiso beda ?';
     }
